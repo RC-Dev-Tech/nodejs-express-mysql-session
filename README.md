@@ -1,4 +1,4 @@
-# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) NodeJs - Express Session
+# ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) NodeJs - Express MySQL Session
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 <br>
@@ -74,4 +74,4 @@
 `npm install express-mysql-session --save` <br>
 `npm install cors --save` <br>
 `npm install mysql --save` <br>
-因為這個套件已經有被安裝並整合在package.json中，所以這邊直接下**npm install --save**的指令就好
+因為這些套件已經有被安裝並整合在package.json中，所以這邊直接下**npm install --save**的指令就好
