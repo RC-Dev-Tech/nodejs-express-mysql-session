@@ -20,6 +20,14 @@
 這個範例將介紹如何使用express-mysql-session套件，將session的資料上傳至ＭySQL資料庫中.
 由於這個範例將會使用之前所介紹的幾個範例做一個進階使用，所以如果看不懂的話，可以回頭去參考之前的範例.
 
+當範例程式執行操作後，下圖可以看到，其Session的資料已經被自動的寫入到資料庫中.
+<br>
+
+![](https://drive.google.com/uc?id=1iWZFqDgHSZAAl1dszZpyueSoM9M5VP4H)
+![](https://drive.google.com/uc?id=1A37iALYuafQnj-c5pleOFlxr0iN7p-bN)
+
+<br>
+
 參考範例:
 - [NodeJs - MySQL 數據庫的操作(CURD)](https://github.com/RC-Dev-Tech/nodejs-mysql) <br>
 - [NodeJs - Express Cookie-Parser](https://github.com/RC-Dev-Tech/nodejs-express-cookie-parser) <br>
